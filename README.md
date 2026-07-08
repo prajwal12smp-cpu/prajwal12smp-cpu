@@ -1,55 +1,216 @@
-<div align="center">
+<!-- Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Prajwal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Python%20Developer%20%7C%20Open%20to%20Internships&descAlignY=60"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Prajwal+%F0%9F%91%8B;AI%2FML+Engineer+in+the+making;Building+real-time+CV+systems)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Prajwal</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=prajwal12smp-cpu&color=2E9EF7&style=flat)
+<h3 align="center">
+Final-Year Computer Science (AI & ML) Student | AI Developer | Backend Developer
+</h3>
 
-</div>
+<p align="center">
 
-I build real-time computer vision systems — the kind that take a messy camera feed and turn it into something useful in milliseconds. Final-year AI & ML student, and I'm currently looking for my first full-time AI Engineer role.
+<a href="https://portfolio-nine-sable-wsfpkgtmli.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
+</a>
 
-## What I've built
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-**🖐️ Real-Time Sign Language Detection** — my strongest project.
-A system that reads hand gestures through a webcam and converts them into text in real time, using MediaPipe for hand landmark tracking, a Random Forest classifier for gesture recognition, and OpenCV for the video pipeline. No cloud inference, no lag — runs live, locally.
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
 
-**🐾 Pet Care App** — a full-stack side project on managing pet health/routines.
+<img src="https://komarev.com/ghpvc/?username=prajwal12smp-cpu&style=for-the-badge"/>
 
-<div align="center">
+</p>
 
-[![SIGN-DETECT](https://github-readme-stats.vercel.app/api/pin/?username=prajwal12smp-cpu&repo=SIGN-DETECT&theme=tokyonight&hide_border=true)](https://github.com/prajwal12smp-cpu/SIGN-DETECT)
-[![Pet-Care-App](https://github-readme-stats.vercel.app/api/pin/?username=prajwal12smp-cpu&repo=Pet-Care-App&theme=tokyonight&hide_border=true)](https://github.com/prajwal12smp-cpu/Pet-Care-App)
+---
 
-</div>
+## 🚀 About Me
 
-**🌐 Portfolio** — where everything lives in one place → [portfolio-nine-sable-wsfpkgtmli.vercel.app](https://portfolio-nine-sable-wsfpkgtmli.vercel.app)
+I'm a final-year Computer Science (AI & ML) student from India passionate about building AI-powered applications that solve real-world problems.
 
-## What I'm working on now
+Rather than only experimenting with models, I enjoy creating complete products by combining Machine Learning, FastAPI, React, Computer Vision, and modern web technologies.
 
-Sharpening the sign-language project into something demo-ready and case-study-worthy, and looking for opportunities to apply CV/ML to real products — not just notebooks.
+Currently looking for:
 
-## Stack
+- 💼 Software Engineering Internships
+- 🤖 AI/ML Internships
+- 🌍 Remote Opportunities
+- 🚀 Freelance Python & AI Projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
 
-## GitHub stats
+## 💻 Tech Stack
 
-<table>
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=prajwal12smp-cpu&show_icons=true&theme=tokyonight&hide_border=true" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal12smp-cpu&layout=compact&theme=tokyonight&hide_border=true" /></td>
-</tr>
-</table>
+<p align="center">
 
-## Let's talk
+<a href="https://skillicons.dev">
 
-I'm actively looking for AI/ML Engineer roles. If you're hiring, or just want to talk about computer vision, reach out:
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,react,js,html,css,sqlite,mysql,git,github,vscode"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwal-shivashimpar-2)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajwal.12smp@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nine-sable-wsfpkgtmli.vercel.app)
+</a>
+
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+## 🎓 StudentLens AI
+
+Machine Learning application for predicting students at risk of dropping out.
+
+### Features
+
+- Student dropout prediction
+- Data preprocessing
+- Machine Learning models
+- Interactive dashboard
+
+**Tech Stack**
+
+Python • Scikit-learn • Pandas • Flask
+
+🔗 Live Demo
+
+https://studentlensai.lovable.app
+
+---
+
+## 🏫 Offline AI Smart Classroom
+
+Built during a National Level Hackathon.
+
+An offline AI tutor powered by FastAPI, Ollama and ChromaDB that helps students learn without internet access.
+
+### Features
+
+- Offline AI Assistant
+- Retrieval-Augmented Generation (RAG)
+- Teacher Dashboard
+- Student Dashboard
+- Local LLM
+- PDF Knowledge Base
+
+**Tech Stack**
+
+FastAPI • React • ChromaDB • Ollama • SQLite
+
+---
+
+## ✋ SignDetect AI
+
+Real-time Sign Language Recognition System using Computer Vision.
+
+### Features
+
+- Detects 14+ hand gestures
+- Real-time webcam recognition
+- MediaPipe Hand Tracking
+- Random Forest Classifier
+
+**Tech Stack**
+
+Python • OpenCV • MediaPipe • Scikit-learn • Flask
+
+---
+
+## 🐾 Pet Healthcare Management System
+
+A web-based application that helps pet owners manage pet records, appointments and healthcare information.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=prajwal12smp-cpu&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal12smp-cpu&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=prajwal12smp-cpu&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Prajwal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prajwal12smp-cpu&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=prajwal12smp-cpu&theme=tokyonight&row=1&no-frame=true"/>
+
+</p>
+
+---
+
+# 📋 GitHub Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwal12smp-cpu&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌱 Currently Working On
+
+- 🚀 Production-ready AI Applications
+- ⚡ FastAPI Backend Development
+- 🤖 Retrieval-Augmented Generation (RAG)
+- 🧠 Computer Vision Projects
+- 💼 Preparing for Software Engineering Interviews
+
+---
+
+# 🤝 Open to Collaborate
+
+I'm interested in collaborating on:
+
+- AI Projects
+- Machine Learning Applications
+- Backend APIs
+- FastAPI Projects
+- Computer Vision
+- Open Source Projects
+
+---
+
+# 📫 Contact Me
+
+📧 Email: YOUR_EMAIL
+
+🌐 Portfolio:
+https://portfolio-nine-sable-wsfpkgtmli.vercel.app/
+
+💼 LinkedIn:
+YOUR_LINKEDIN
+
+🐙 GitHub:
+https://github.com/prajwal12smp-cpu
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy turning AI ideas into practical products that people can actually use.
+
+⭐ If you like my work, consider starring my repositories!
