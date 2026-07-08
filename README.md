@@ -13,11 +13,11 @@ Final-Year Computer Science (AI & ML) Student | AI Developer | Backend Developer
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/prajwal-shivashimpar-284162205">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="prajwal.12smp@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
