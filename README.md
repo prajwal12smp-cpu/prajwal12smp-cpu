@@ -202,7 +202,7 @@ I'm interested in collaborating on:
 https://portfolio-nine-sable-wsfpkgtmli.vercel.app/
 
 💼 LinkedIn:
-YOUR_LINKEDIN
+www.linkedin.com/in/prajwal-shivashimpar-284162205
 
 🐙 GitHub:
 https://github.com/prajwal12smp-cpu
