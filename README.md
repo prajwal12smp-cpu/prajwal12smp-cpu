@@ -29,7 +29,7 @@ Final-Year Computer Science (AI & ML) Student | AI Developer | Backend Developer
 
 ## 🚀 About Me
 
-I'm a final-year Computer Science (AI & ML) student from India passionate about building AI-powered applications that solve real-world problems.
+I'm a final-year Computer Science (AI & ML) student from India, passionate about building AI-powered applications that solve real-world problems.
 
 Rather than only experimenting with models, I enjoy creating complete products by combining Machine Learning, FastAPI, React, Computer Vision, and modern web technologies.
 
@@ -81,7 +81,7 @@ https://studentlensai.lovable.app
 
 ## 🏫 Offline AI Smart Classroom
 
-Built during a National Level Hackathon.
+Built during a national-level hackathon.
 
 An offline AI tutor powered by FastAPI, Ollama and ChromaDB that helps students learn without internet access.
 
