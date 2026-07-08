@@ -17,7 +17,7 @@ Final-Year Computer Science (AI & ML) Student | AI Developer | Backend Developer
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="prajwal.12smp@gmail.com">
+<a href="mailto:prajwal.12smp@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
