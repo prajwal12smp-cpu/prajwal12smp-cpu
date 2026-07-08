@@ -1,4 +1,5 @@
 # Hey, I'm Prajwal 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Prajwal+%F0%9F%91%8B;AI%2FML+Engineer+in+the+making;Building+real-time+CV+systems)](https://git.io/typing-svg)
 
 I build real-time computer vision systems — the kind that take a messy camera feed and turn it into something useful in milliseconds. Final-year AI & ML student, and I'm currently looking for my first full-time AI Engineer role.
 
