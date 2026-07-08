@@ -196,7 +196,7 @@ I'm interested in collaborating on:
 
 # 📫 Contact Me
 
-📧 Email: YOUR_EMAIL
+📧 Email: prajwal.12smp@gmail.com
 
 🌐 Portfolio:
 https://portfolio-nine-sable-wsfpkgtmli.vercel.app/
