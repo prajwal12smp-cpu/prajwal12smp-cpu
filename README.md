@@ -12,7 +12,7 @@ A system that reads hand gestures through a webcam and converts them into text i
 → [Repo](https://github.com/prajwal12smp-cpu/Pet-Care-App)
 
 **🌐 Portfolio** — where everything lives in one place.
-→ [portfolio-nine-sable-wsfpkgtmli.vercel.app](https://portfolio-nine-sable-wsfpkgtmli.vercel.app)
+→ [portfolio-nine-sable-wsfpkgtmli.vercel.app](https://portfolio-nine-sable-wsfpkgtmli.vercel.app/)
 
 ## What I'm working on now
 
