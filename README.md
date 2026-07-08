@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=PrajwalShivashimpar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Python%20Developer%20%7C%20Open%20to%20Internships&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Prajwal Shivashimpar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Python%20Developer%20%7C%20Open%20to%20Internships&descAlignY=60"/>
 
 <h1 align="center">Hi 👋, I'm Prajwal</h1>
 
