@@ -20,9 +20,6 @@ Final-Year Computer Science (AI & ML) Student | AI Developer | Backend Developer
 <a href="mailto:prajwal.12smp@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=prajwal12smp-cpu&style=for-the-badge"/>
-
 </p>
 
 ---
