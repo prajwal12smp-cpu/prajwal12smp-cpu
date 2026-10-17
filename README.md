@@ -86,22 +86,6 @@ Currently looking for:
 
 ---
 
-# 📈 Contribution Graph
-
-[![Prajwal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prajwal12smp-cpu&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=prajwal12smp-cpu&theme=tokyonight&row=1&no-frame=true"/>
-
-</p>
-
----
-
 # 📋 GitHub Profile Summary
 
 <p align="center">
