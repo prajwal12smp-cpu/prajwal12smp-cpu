@@ -53,70 +53,15 @@ Currently looking for:
 
 ---
 
-# ⭐ Featured Projects
+## 🚀 Featured Projects
 
-## 🎓 StudentLens AI
-
-Machine Learning application for predicting students at risk of dropping out.
-
-### Features
-
-- Student dropout prediction
-- Data preprocessing
-- Machine Learning models
-- Interactive dashboard
-
-**Tech Stack**
-
-Python • Scikit-learn • Pandas • Flask
-
-🔗 Live Demo
-
-https://studentlensai.lovable.app
-
----
-
-## 🏫 Offline AI Smart Classroom
-
-Built during a National Level Hackathon.
-
-An offline AI tutor powered by FastAPI, Ollama and ChromaDB that helps students learn without internet access.
-
-### Features
-
-- Offline AI Assistant
-- Retrieval-Augmented Generation (RAG)
-- Teacher Dashboard
-- Student Dashboard
-- Local LLM
-- PDF Knowledge Base
-
-**Tech Stack**
-
-FastAPI • React • ChromaDB • Ollama • SQLite
-
----
-
-## ✋ SignDetect AI
-
-Real-time Sign Language Recognition System using Computer Vision.
-
-### Features
-
-- Detects 14+ hand gestures
-- Real-time webcam recognition
-- MediaPipe Hand Tracking
-- Random Forest Classifier
-
-**Tech Stack**
-
-Python • OpenCV • MediaPipe • Scikit-learn • Flask
-
----
-
-## 🐾 Pet Healthcare Management System
-
-A web-based application that helps pet owners manage pet records, appointments and healthcare information.
+| Project                                                                                              | Description                                                                                                                                                                                                                                                               | Tech                                                                                                                                                          |
+| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**Eco-Mind AI**](https://github.com/prajwal12smp-cpu/Eco-Mind-AI)                                   | Built an evidence-grounded environmental intelligence system that analyzes ecological conditions, identifies environmental stressors, retrieves relevant evidence using RAG, and generates evidence-backed recommendations with reasoning validation.                     | \<img src="[https://skillicons.dev/icons?i=python,fastapi,postgres](https://skillicons.dev/icons?i=python,fastapi,postgres)" />                               |
+| [**Offline AI Assistant**](https://github.com/prajwal12smp-cpu/Offline-AI-Assistant)                 | Developed an offline educational AI assistant that answers questions using learning materials. Integrated a RAG pipeline with ChromaDB for semantic retrieval, FastAPI for backend services, Ollama for local LLM inference, and SQLite for chat history.                 | \<img src="[https://skillicons.dev/icons?i=python,fastapi,react,typescript,sqlite](https://skillicons.dev/icons?i=python,fastapi,react,typescript,sqlite)" /> |
+| [**SignDetect AI**](https://github.com/prajwal12smp-cpu/SIGN-DETECT)                                 | Developed a real-time hand-sign recognition application using MediaPipe for hand landmark detection and a Random Forest classifier to recognize 14 static hand signs. Integrated OpenCV and Flask for the application workflow.                                           | \<img src="[https://skillicons.dev/icons?i=python,flask,opencv,sklearn](https://skillicons.dev/icons?i=python,flask,opencv,sklearn)" />                       |
+| [**StudentLens AI**](https://github.com/prajwal12smp-cpu/Student-Lens-AI-Student-Dropout-Prediction) | Developed a student dropout prediction system using machine learning to analyze academic and behavioral factors and identify students who may be at risk. Applied data preprocessing, feature engineering, model training, and evaluation to support predictive analysis. | \<img src="[https://skillicons.dev/icons?i=python,sklearn](https://skillicons.dev/icons?i=python,sklearn)" />                                                 |
+| [**Pet Care Management System**](https://github.com/prajwal12smp-cpu/Pet-Care-App)                   | Built a responsive web application that helps pet owners manage pet profiles, vaccination records, medical history, feeding routines, and veterinary visit reminders through an organized interface.                                                                      | \<img src="[https://skillicons.dev/icons?i=html,css,javascript,git](https://skillicons.dev/icons?i=html,css,javascript,git)" />                               |
 
 ---
 
